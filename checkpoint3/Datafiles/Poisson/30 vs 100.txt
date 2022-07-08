@@ -1,0 +1,2 @@
+The 30x30 system is good for visualisation of the scalar and vector fields but inaccurate fits.
+The 100x100 system produces more accurate fits.
